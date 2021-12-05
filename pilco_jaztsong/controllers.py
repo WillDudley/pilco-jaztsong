@@ -4,7 +4,7 @@ import gpytorch
 from torch.autograd import Variable
 from torch.nn import Parameter
 
-from pilco.models import MGPR
+from pilco_jaztsong.models import MGPR
 
 def squash_sin(m, s, max_action=None):
     '''
