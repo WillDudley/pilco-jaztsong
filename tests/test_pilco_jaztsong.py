@@ -1,4 +1,4 @@
-from pilco_gpytorch_will2 import __version__
+from pilco_jaztsong import __version__
 
 
 def test_version():

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pilco-gpytorch-will2"
+name = "pilco_jaztsong"
 version = "0.1.0"
 description = ""
 authors = ["WillDudley <Will2346@live.co.uk>"]
